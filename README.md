@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Alisson Moura 👋
 
-<!--
-**moura92/moura92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Java | Spring Boot | APIs REST | HATEOAS & Swagger | Em formação**  
+🎯 Apaixonado por código limpo, automação e aprendizado contínuo
 
-Here are some ideas to get you started:
+📍 João Pessoa, PB, Brasil  
+🌐 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/alisson-moura-071410238/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Minhas Skills
+
+- **Linguagens & Frameworks:** Java, Spring Boot, MapStruct
+- **APIs & Documentação:** REST, HATEOAS, Swagger/OpenAPI  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, Maven, IntelliJ IDEA  
+- **Boas práticas:** Código limpo, Testes automatizados, Versionamento eficiente
+
+---
+
+## 🚀 Projetos em destaque
+
+### [Calculo_IMC](https://github.com/seu-usuario/Calculo_IMC)  
+📌 Aplicação Java para cálculo de IMC com Spring Boot, HATEOAS
+💡 Funcionalidades: CRUD de usuários, cálculo automático do IMC, classificação por faixa de IMC  
+
+---
+
+## 📈 Estatísticas GitHub
+
+![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
