@@ -22,10 +22,4 @@
 
 ### [Calculo_IMC](https://github.com/seu-usuario/Calculo_IMC)  
 📌 Aplicação Java para cálculo de IMC com Spring Boot, HATEOAS
-💡 Funcionalidades: CRUD de usuários, cálculo automático do IMC, classificação por faixa de IMC  
-
----
-
-## 📈 Estatísticas GitHub
-
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+💡 Funcionalidades: CRUD de usuários, cálculo automático do IMC, classificação por faixa de IMC
