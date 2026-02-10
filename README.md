@@ -20,6 +20,6 @@
 
 ## 🚀 Projetos em destaque
 
-### [Calculo_IMC](https://github.com/seu-usuario/Calculo_IMC)  
+### [Calculo_IMC](https://github.com/moura92/Calculo_IMC.git)  
 📌 Aplicação Java para cálculo de IMC com Spring Boot, HATEOAS
 💡 Funcionalidades: CRUD de usuários, cálculo automático do IMC, classificação por faixa de IMC
